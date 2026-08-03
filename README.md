@@ -34,11 +34,11 @@ Tecnologias que estou estudando
 Contato e redes
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jeferson-de-lira-sobral-849524324?utm_source=share_via&utm_content=profile&utm_medium=member_android/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:jefersondslira.s@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
