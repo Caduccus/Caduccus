@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender coisas novas. 
 
 ## Minha trajetória atual
 
-```javascript
+``javascript
 const meuPerfil = {
   status: "3º Ano - Ensino Médio Técnico",
   localizacao: "Brasil",
@@ -21,14 +21,28 @@ const meuPerfil = {
   proximoPasso: "Conseguir meu primeiro estágio em TI"
 };
 
+---
+
 Tecnologias que estou estudando
 
-Python Java Kotlin SQL
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL"/>
+</p>
 
 ---
 
 Contato e redes
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 ```
