@@ -12,10 +12,10 @@ Gosto bastante de tecnologia e estou sempre em busca de aprender coisas novas. A
 
 ## Minha trajetória atual
 
-- **Status:** 3º Ano - Ensino Médio Técnico
+- **Status:** 3º Ano - Ensino Médio Técnico em Desenvolvimento De Sistemas
 - **Localização:** Brasil
-- **Foco:** Aprender, programar e resolver problemas
-- **Habilidades em desenvolvimento:** Python, Java, Kotlin e SQL
+- **Foco:** Melhorar ainda mais meus conhecimentos em TI e resolver problemas
+- **Linguagens que uso:** Python, Java, Kotlin e SQL
 - **Próximo passo:** Conseguir meu primeiro estágio em TI
   
 ---
