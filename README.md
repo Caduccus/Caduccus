@@ -16,7 +16,6 @@ Gosto bastante de tecnologia e estou sempre em busca de aprender coisas novas. A
 - **Localização:** Brasil
 - **Foco:** Melhorar ainda mais meus conhecimentos em TI e resolver problemas
 - **Linguagens que uso:** Python, Java, Kotlin e SQL
-- **Próximo passo:** Conseguir meu primeiro estágio em TI
   
 ---
 
