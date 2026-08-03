@@ -1,4 +1,4 @@
-# Olá, eu sou Jeferson!
+# Olá, eu sou Jeferson!🤠
 
 Estudante de Desenvolvimento de Sistemas | Em busca da 1ª oportunidade em TI
 
@@ -6,21 +6,18 @@ Estudante de Desenvolvimento de Sistemas | Em busca da 1ª oportunidade em TI
 
 ## Sobre mim
 
-Sou apaixonado por tecnologia e estou sempre em busca de aprender coisas novas. Atualmente, estou me dedicando aos estudos de lógica de programação e desenvolvimento, com o objetivo de construir uma carreira sólida na área de TI.
+Gosto bastante de tecnologia e estou sempre em busca de aprender coisas novas. Atualmente, estou me dedicando aos estudos de lógica de programação e desenvolvimento, com o objetivo de construir uma carreira sólida na área de TI.
 
 ---
 
 ## Minha trajetória atual
 
-``javascript
-const meuPerfil = {
-  status: "3º Ano - Ensino Médio Técnico",
-  localizacao: "Brasil",
-  foco: "Aprender, programar e resolver problemas",
-  habilidades: ["Python", "Java", "Kotlin", "SQL"],
-  proximoPasso: "Conseguir meu primeiro estágio em TI"
-};
-
+- **Status:** 3º Ano - Ensino Médio Técnico
+- **Localização:** Brasil
+- **Foco:** Aprender, programar e resolver problemas
+- **Habilidades em desenvolvimento:** Python, Java, Kotlin e SQL
+- **Próximo passo:** Conseguir meu primeiro estágio em TI
+  
 ---
 
 Tecnologias que estou estudando
@@ -45,4 +42,3 @@ Contato e redes
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-```
