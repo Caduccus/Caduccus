@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="120" alt="Chrome"/>
+</p>
+
 # Mano Jef aqui. 👋
 
 Estudante de Desenvolvimento de Sistemas
@@ -33,7 +37,7 @@ Gosto de tecnologia no geral e estou curioso pra aprender coisas novas. No momen
 ## Caso ache isso tudo interessante, fale comigo:
 
 <p align="center">
-  <a href="jef.devzz@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jef.devzz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
