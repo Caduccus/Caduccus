@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="120" alt="Chrome"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Caducuss&color=blue&style=flat-square&label=Visualizações" alt="Visualizações do perfil"/>
 </p>
 
 # Mano Jef aqui. 👋
