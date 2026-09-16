@@ -1,25 +1,25 @@
-# Olá, eu sou Jeferson!🤠
+# Mano Jef aqui. 👋
 
-Estudante de Desenvolvimento de Sistemas | Em busca da 1ª oportunidade em TI
+Estudante de Desenvolvimento de Sistemas
 
 ---
 
 ## Sobre mim
 
-Gosto bastante de tecnologia e estou sempre em busca de aprender coisas novas. Atualmente, estou me dedicando aos estudos de lógica de programação e desenvolvimento, com o objetivo de construir uma carreira sólida na área de TI.
+Gosto de tecnologia no geral e estou curioso pra aprender coisas novas. No momento, estou estudando bastante sobre Android Studio, na lógica de programação e no desenvolvimento, com um objetivo bem claro: construir uma carreira sólida na área de TI. Ainda tô no começo, mas tô curtindo cada passo do caminho.
 
 ---
 
-## Minha trajetória atual
+## Onde estou agora
 
-- **Status:** 3º Ano - Ensino Médio Técnico em Desenvolvimento De Sistemas
+- **Status:** 3º Ano do Ensino Médio Técnico em Desenvolvimento de Sistemas
 - **Localização:** Brasil
-- **Foco:** Melhorar ainda mais meus conhecimentos em TI e resolver problemas
-- **Linguagens que uso:** Python, Java, Kotlin e SQL
-  
+- **Foco:** Evoluir meus conhecimentos em TI
+- **Linguagens que tô usando:** Python, Java, Kotlin e SQL
+
 ---
 
-Tecnologias que estou estudando
+## Tecnologias que tô estudando
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -30,14 +30,10 @@ Tecnologias que estou estudando
 
 ---
 
-## Contato e redes
+## Caso ache isso tudo interessante, fale comigo:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeferson-de-lira-sobral-849524324?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:jefersondelira.s@gmail.com" target="_blank">
+  <a href="mailto:jefersonlirasobral123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
